@@ -4,7 +4,7 @@ import (
 	"net/http"
 
 	"github.com/gorilla/mux"
-	a "github.com/shivanithemathlete/CRUD/gorillaMux/restAPIs"
+	a "github.com/shivanisharma200/learningGo/gorillaMux/restAPIs"
 )
 
 func main() {
