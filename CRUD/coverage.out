@@ -1,0 +1,23 @@
+mode: set
+github.com/shivanithemathlete/CRUD/main.go:11.23,12.16 1 0
+github.com/shivanithemathlete/CRUD/main.go:12.16,14.3 1 0
+github.com/shivanithemathlete/CRUD/main.go:17.13,23.16 6 0
+github.com/shivanithemathlete/CRUD/main.go:30.2,43.12 11 0
+github.com/shivanithemathlete/CRUD/main.go:23.16,25.3 1 0
+github.com/shivanithemathlete/CRUD/main.go:25.8,27.3 1 0
+github.com/shivanithemathlete/CRUD/database/firstDB.go:19.40,21.16 2 0
+github.com/shivanithemathlete/CRUD/database/firstDB.go:26.2,26.11 1 0
+github.com/shivanithemathlete/CRUD/database/firstDB.go:21.16,23.3 1 0
+github.com/shivanithemathlete/CRUD/database/firstDB.go:23.8,25.3 1 0
+github.com/shivanithemathlete/CRUD/database/firstDB.go:28.48,31.16 3 1
+github.com/shivanithemathlete/CRUD/database/firstDB.go:34.2,34.12 1 1
+github.com/shivanithemathlete/CRUD/database/firstDB.go:31.16,33.3 1 1
+github.com/shivanithemathlete/CRUD/database/firstDB.go:37.45,40.16 3 1
+github.com/shivanithemathlete/CRUD/database/firstDB.go:43.2,45.12 3 1
+github.com/shivanithemathlete/CRUD/database/firstDB.go:40.16,42.3 1 1
+github.com/shivanithemathlete/CRUD/database/firstDB.go:48.43,51.16 3 1
+github.com/shivanithemathlete/CRUD/database/firstDB.go:54.2,56.12 3 1
+github.com/shivanithemathlete/CRUD/database/firstDB.go:51.16,53.3 1 1
+github.com/shivanithemathlete/CRUD/database/firstDB.go:58.53,61.16 3 1
+github.com/shivanithemathlete/CRUD/database/firstDB.go:64.2,64.18 1 1
+github.com/shivanithemathlete/CRUD/database/firstDB.go:61.16,63.3 1 1
